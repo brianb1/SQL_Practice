@@ -1,7 +1,7 @@
-CREATE TABLE todo_list (id INTEGER PRIMARY KEY, item TEXT, minutes INTEGER);
-INSERT INTO todo_list VALUES (1, "Wash the dishes", 15);
-INSERT INTO todo_list VALUES (2, "vacuuming", 20);
-INSERT INTO todo_list VALUES (3, "Learn some stuff on KA", 30);
-INSERT INTO todo_list VALUES (4, "make dinner", 35);
+CREATE TABLE Bikes (id INTEGER PRIMARY KEY, color TEXT, weight REAL, cost NUMERIC, style REAL);
 
-SELECT SUM(minutes) FROM todo_list;
+INSERT INTO Bikes (id, color, weight, cost, style) VALUES (01, "red", 3, 5000, "moutain");
+
+INSERT INTO Bikes (id, color, weight, cost, style) VALUES (02, "blue", 6, 12000, "moutain");
+
+INSERT INTO Bikes (id, color, weight, cost, style) VALUES (03, "purple", 12, 1000, "speed");
