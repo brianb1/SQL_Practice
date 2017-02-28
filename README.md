@@ -39,7 +39,7 @@ Becoming a full stack web developer means that you need to be comfortable with w
 ## Specifications
 
 ### Day 1: SQL Basics & Advanced SQL Queries
-- [ ] Complete the [SQL Basics course](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
+- [ x] Complete the [SQL Basics course](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
 - [ ] Complete the [Advanced SQL queries course](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries)
 
 ### Day 2: Relational Queries
