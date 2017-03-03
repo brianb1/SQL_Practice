@@ -8,6 +8,8 @@ authors:
   - @Brian
 issueNumber: 178
 teamSize: 1
+resources used:
+https://sqlformat.org/
 ---
 
 # Core SQL
